@@ -1,0 +1,26 @@
+{
+  "name": "first-npm-pkg",
+  "version": "1.0.0",
+  "description": "Add First Npm Package ",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivalikaVineforce/first-npm-pkg.git"
+  },
+  "keywords": [
+    "npn"
+  ],
+  "author": "Shivalika",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ShivalikaVineforce/first-npm-pkg/issues"
+  },
+  "homepage": "https://github.com/ShivalikaVineforce/first-npm-pkg#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
